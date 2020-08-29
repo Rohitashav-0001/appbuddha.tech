@@ -16,6 +16,7 @@
   <body>
     <h1>Hello, world!</h1>
     <p>This is the space where all the magic happens....</p>
+    
     <!--HTML CODE FOR VUE JS-->
     <div id = "app">
       {{message}}
